@@ -1,4 +1,4 @@
-# 🦞 Lobster AI Telegram Assistant
+# 👾 CORAPTED MIKEY AI Telegram Assistant
 
 A private-first AI Telegram bot designed for cybersecurity, ethical hacking, and CTF assistance. Powered by the **Dolphin3** model and featuring a **Tony Stark/Jarvis** inspired personality.
 
